@@ -8,7 +8,6 @@ public class Employee{
         this.age = age;
         this.department = department;
     }
-
     public String getName() {
         return name;
     }
