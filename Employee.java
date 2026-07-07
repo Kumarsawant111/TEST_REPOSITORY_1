@@ -3,6 +3,7 @@ public class Employee{
     private int age;
     private String department;
    // Commeted Line 
+   // This is parameterized constructor
     public Employee(String name, int age, String department) {
         this.name = name;
         this.age = age;
